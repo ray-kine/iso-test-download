@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>https://raw.githubusercontent.com/***/KINE.ipa</string>
+				<string>https://github.com/ray-kine/iso-test-download/releases/download/v22/KINE.ipa</string>
 				<key>bundle-version</key>
 				<string>2.1.2</string>
 				<key>kind</key>
